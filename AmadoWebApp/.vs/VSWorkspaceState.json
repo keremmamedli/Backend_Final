@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\AmadoApp.MVC",
+    "\\AmadoApp.MVC\\Areas",
+    "\\AmadoApp.MVC\\Areas\\Manage",
+    "\\AmadoApp.MVC\\Areas\\Manage\\Controllers"
+  ],
+  "SelectedNode": "\\AmadoApp.MVC\\Areas\\Manage\\Controllers\\CategoryController.cs",
+  "PreviewInSolutionExplorer": false
+}
